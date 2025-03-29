@@ -19,7 +19,7 @@ This project is a **Integration API Dictionary** built using **Flutter**. It all
    - [Download Flutter](https://flutter.dev/docs/get-started/install)
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/mail-simulated-service.git
+   git clone https://github.com/BaoLex/Integration-Dictionary-API-Website.git
    ```
 3. **Navigate to the Project Directory**
    ```bash
